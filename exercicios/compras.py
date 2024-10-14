@@ -7,9 +7,9 @@
 """
 
 compras = []
-lace = True
+laco = True
 
-while lace:
+while laco:
     try:
       while True:
         print("\nMenu:")
@@ -40,4 +40,4 @@ while lace:
 
     except ValueError:
       print('Opção inválida. Tente novamente.')
-    lace = False
+    laco = False
